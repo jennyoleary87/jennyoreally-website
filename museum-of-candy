@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+
+<!-- Created 02/24/25; Udemy Web Dev course section 13 project -->
+
+<head>
+  <meta charset="UTF-8">
+  <title>Museum Of Candy</title>
+<!--  <link rel="stylesheet" href="/css/main-no-bs.css"> -->
+<!--  <script src="/js/include.js"></script> -->
+</head>
+
+<body>
+<header>
+    <nav aria-label="primary">
+      <ul>
+        <li><a href="/index/">Main</a></li>
+        <li><a href="/museum-of-candy/">Museum Of Candy</a></li>
+      </ul>
+    </nav>
+
+    <nav aria-label="breadcrumb">
+      <ol>
+        <li><a href="/">Home</a></li>
+        <li>Museum Of Candy</li>
+      </ol>
+    </nav>
+  </header>
+
+  <p>
+    
+  </p>
+
+</body>
+
+</html>
